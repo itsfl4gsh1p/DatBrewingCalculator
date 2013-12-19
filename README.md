@@ -26,3 +26,6 @@ Everything from recipe design to brewday.
 Please keep in mind this is all very new territory for me and things will be done at my own pace for now. As I learn
 more about the GitHub community, and python in general I look forward to expanding this project even if for nothing
 more than my own entertainment and learing experience.
+
+Lastly, I realize the name could use some work. I'm trying to think of something more interesting.
+http://i.imgur.com/tMsRTqm.jpg
